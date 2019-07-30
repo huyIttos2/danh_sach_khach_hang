@@ -1,0 +1,21 @@
+[
+  {
+    "ten": "Mai Vn Hon",
+    "ngaysinh": "1983-08-20",
+    "diachi": "H Ni",
+    "anh": "images/img1.jpeg"
+  },
+  {
+    "ten": "Nguyn Vn Nam",
+    "ngaysinh": "1983-08-20",
+    "diachi": "Bc Giang",
+    "anh": "images/img2.jpeg"
+  },
+  {
+    "ten": "Nguyn Thi Ha",
+    "ngaysinh": "1983-08-21",
+    "diachi": "Namnh",
+    "anh": "images/img3.jpeg"
+  }
+
+]
